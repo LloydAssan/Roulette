@@ -1,3 +1,12 @@
+## ROULETTE APP
+This is an app that allows a casino owner keep track of the wins and losses from his casino throughout the day.
+
+![alt tag](rouletteSS.png)
+
+
+## Tools Used
+CSS, HTML, JavaScript, Node JS, MongoDB
+
 ## Installation
 
 1. Clone repo
@@ -6,7 +15,7 @@
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:3030`
 
 ## Credit
 
