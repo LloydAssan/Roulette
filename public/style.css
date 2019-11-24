@@ -1,0 +1,58 @@
+body{
+  background-image: url("img/vegas.jpg");
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lawngreen;
+  font-size: 25px;
+}
+
+h1 {
+  text-align: center;
+  color: coral;
+  text-decoration-line: overline;
+  font-family: fantasy;
+  font-style: unset;
+  font-size: 106px;
+}
+.underRou{
+  margin-left: 33%;
+  width: 98%;
+}
+
+span{
+  color: chocolate;
+}
+
+p {
+    margin: 40px 0 4px;
+    /* float: left; */
+    margin-left: 25%;
+    color: aliceblue;
+    font-style: normal;
+}
+
+img{
+  height: 200px;
+}
+
+#submit {
+    width: 11%;
+    height: 48px;
+    border-radius: 14px;
+    margin-left: 12%;
+    margin-top: 5%;
+    background-color: black;
+    color: brown;
+    font-size: xx-large;
+}
+
+select{
+  width: 30%;
+  height: 30px;
+  border-radius: 25px;
+}
+input{
+  width: 23%;
+  height: 30px;
+  border-radius: 25px;
+}
